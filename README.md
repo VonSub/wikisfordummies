@@ -1,2 +1,3 @@
 # wikisfordummies
-tf_wikis_for_dummies_showcase_repo
+
+I have created this awesome repo for the ThreeFold manual to make github/wiki editing easy for all.
